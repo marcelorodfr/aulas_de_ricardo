@@ -1,6 +1,6 @@
 # CONTEÚDO DAS AULAS DE RICARDO #
 
-![Logo](file:///home/Documents/aulas_ricardo/c++.png)
+![Logo](/home/Documents/aulas_ricardo/c++.png)
 
 Material pessoal da disciplina C++; 
 
