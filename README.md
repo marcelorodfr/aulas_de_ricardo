@@ -1,10 +1,10 @@
 # CONTEÚDO DAS AULAS DE RICARDO #
 
-![Logo](~/home/Documents/aulas_ricardo/c++.png)
+![Logo](file:///home/Documents/aulas_ricardo/c++.png)
 
 Material pessoal da disciplina C++; 
 
-Lista de vetores na pasta listaVetores, questões resolvidas: 
+Lista de vetores na pasta *listaVetores*, questões resolvidas: 
 
 1. resolvida;
 2. resolvida;
