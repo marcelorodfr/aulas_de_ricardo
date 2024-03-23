@@ -1,6 +1,6 @@
 # CONTEÚDO DAS AULAS DE RICARDO #
 
-![Logo](aulas_ricardo/img.png)
+![Logo](img.jpg)
 
 Material pessoal da disciplina C++; 
 
