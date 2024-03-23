@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/marcelo/Documents/Arquivos/aulas_ricardo",
-      "program": "/home/marcelo/Documents/Arquivos/aulas_ricardo/build/Debug/outDebug",
+      "cwd": "/home/marcelo/Documents/aulas_ricardo",
+      "program": "/home/marcelo/Documents/aulas_ricardo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
