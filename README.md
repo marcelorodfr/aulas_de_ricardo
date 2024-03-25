@@ -11,7 +11,7 @@ Lista de vetores na pasta *listaVetores*, questões resolvidas:
 3. resolvida;
 4. resolvida; 
 5. resolvida; 
-6. unsolved; 
+6. resolvida; 
 7. unsolved; 
 8. unsolved; 
 9. unsolved;
