@@ -6,13 +6,13 @@ Material pessoal da disciplina C++;
 
 Lista de vetores na pasta *listaVetores*, questões resolvidas: 
 
-1. resolvida;
-2. resolvida;
-3. resolvida;
-4. resolvida; 
-5. resolvida; 
-6. resolvida; 
-7. unsolved; 
-8. unsolved; 
-9. unsolved;
-10. unsolved; 
+1. <span style="color:green">resolvida;</span>
+2. <span style="color:green">resolvida;</span>
+3. <span style="color:green">resolvida;</span>
+4. <span style="color:green">resolvida;</span> 
+5. <span style="color:green">resolvida;</span>
+6. <span style="color:green">resolvida;</span> 
+7. <span style="color:green">unsolved;</span> 
+8. <span style="color:green">unsolved;</span>
+9. <span style="color:green">unsolved;</span>
+10. <span style="color:green">unsolved;</span> 
