@@ -15,4 +15,4 @@ Lista de vetores na pasta *listaVetores*, questões resolvidas:
 7. resolvida;
 8. resolvida;
 9. resolvida;
-10. unsolved;
+10. resolvida(possivelmente errada);
